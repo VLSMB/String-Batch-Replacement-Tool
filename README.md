@@ -1,4 +1,4 @@
-# String Batch Replacement Tool by VLSMB
+# String Batch Replacement Tool
 
 This program mainly supports the following functions:
 1. Batch processing of files
