@@ -30,4 +30,5 @@ https://github.com/VLSMB/String-Batch-Replacement-Tool
 
 # Debug V1.02
 Modify the configuration file to a database, to improve the stability of the configuration file
+
 将配置文件修改为数据库，提高配置文件的稳定性
